@@ -1,0 +1,3 @@
+testDataForOrder.cardinformation.cardnumber : 1234 1234 1234 1234
+allTitles : ZARA COAT 3,ADIDAS ORIGINAL,IPHONE 13 PRO,qwerty,Laptop,Laptop,Laptop,Laptop
+count: 8

@@ -3,12 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test" : "npx playwright test ./tests/PageObjectPattern6.spec.js",
+    "regression": "npx playwright test",
+    "webTests" : "npx playwright test --grep @Web",
+    "apiTests" : "npx playwright test --grep @API",
+    "SafariNewConfig" : "npx playwright test --config playwright.config1.js --project=safari"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.48.0",
-    "@types/node": "^22.7.5"
+    "@types/node": "^22.7.5",
+    "allure-playwright": "^3.0.6"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
   }
 }

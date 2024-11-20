@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "merchant_cookie_for_captcha",
+      "value": "eyJpdiI6Ikhxb1N1RVhLZ0Yrbk5IQ2szemFndHc9PSIsInZhbHVlIjoid1doQ1B2TzMvelZSRlkvVnZIOWprdXpCaWY3SW1KeFFQMU5BdmRVL0h3VTVLWkR2K05IcFdlNnNiQVdjUFROeU9IRkd2bkZVV3plTWhlcDlZMXliN3c9PSIsIm1hYyI6IjgyOTRmOTNhMWJkN2I4MmYxODBiZWY0YmEyMGJlOGNmNjhiYmE1YjUzYTU0Y2Q4NjUzYjk1YTZhMGU3ZDY0YzMiLCJ0YWciOiIifQ%3D%3D",
+      "domain": "provisioning.sipay.com.tr",
+      "path": "/",
+      "expires": 1730834663.28801,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "locale",
+      "value": "eyJpdiI6Imd1aEJDRkswaTN0dEhkY0Joak1pdVE9PSIsInZhbHVlIjoiM2I1RDJ4dHRkbi8vN2RVY1Y2cC93RDJLbkdBN1BNR3U0b2Q1MWY3UmlsQ3hCZHBOQUhHSEJVZU9vKzFpTnFwbCIsIm1hYyI6IjQ1NmQ4YmZkOWEwNzE4YTZmOTVmMWVkYTQxNDAwNmYyNmQ0MTk0MzNmZjM4OWRiM2IzODEwYTAyMGNiZjFlYjMiLCJ0YWciOiIifQ%3D%3D",
+      "domain": "provisioning.sipay.com.tr",
+      "path": "/",
+      "expires": 1765308263.288437,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6ImdjR29tOGFLcWN6cm1teE1wdFRlZEE9PSIsInZhbHVlIjoiSG5mK3NwOVhxZXBuV3NabWFMSis4b1lSdm95NG9xc3laenUvV2lna1ZaU1VjTVd1MHNpczVTV2VSb3JhUGdBVm9wam0rbHgwWnFiOC83a0dFa0xlNGtFbUpCV0Uxb0o4NVR6WlBXeWNmZUVDY0dmcmZMTVV2aFg3K1NlMGtFVG4iLCJtYWMiOiJmYmUxNzM0Y2M3N2JkZWZmMDdjNmMyNjQzZTQ0MTgzNjI1N2FjMDIxYmY1MGFlYTM4Y2JiMjQ5ODg3MmM3MjEwIiwidGFnIjoiIn0%3D",
+      "domain": "provisioning.sipay.com.tr",
+      "path": "/",
+      "expires": 1730791465.84872,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sipaymerchant_session",
+      "value": "eyJpdiI6ImFkR2FGOGtRL0NxQXpZNDNBdGR4WUE9PSIsInZhbHVlIjoib2xHbVJlYnBZSVYveEFzNmpUQXMrMThVb1czS043YXFIdkc3eFJaeDRYQUk3aUR5Y0pxK3ZmK0laclR2dVF3ZTZ0ZklNTUl2ZlZqZUJxQU9pTW9XOWZaYU9FOFVlUGNWU0FxM1lCWDI4dHJvZFFFdUVpVVovRWwzQURaOFdDdXQiLCJtYWMiOiI5MWM5NjI5OTUxNGE1MjFjOGY4MmE4NjZlYTc2ZWNiN2VhNDFkNzY4ZDVlYzA3ZmUyNjA5ODQzMmNkOWE5MjMxIiwidGFnIjoiIn0%3D",
+      "domain": "provisioning.sipay.com.tr",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
